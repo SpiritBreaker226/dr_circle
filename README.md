@@ -1,5 +1,3 @@
-#SUPER CIRCLE GAME
+# Dr Circle
 
-![](http://cl.ly/image/01262S1B2O1P/Screen%20Shot%202013-11-29%20at%203.14.44%20PM.png)
-
-Please fork me and create your own!
+Base on a Bitmaker assignment <a href-"https://github.com/bitmakerlabs/circle_game">circle_game</a>, Dr Circle is a JavaScript game where the objective is to click on as many circle with in a time limit.
